@@ -5,8 +5,8 @@
 SolidPython
 -----------
 
-.. image:: https://circleci.com/gh/SolidCode/SolidPython.svg?style=shield
-    :target: https://circleci.com/gh/SolidCode/SolidPython
+.. image:: https://github.com/SolidCode/SolidPython/actions/workflows/ci.yml/badge.svg
+    :target: https://github.com/SolidCode/SolidPython/actions/workflows/ci.yml
 .. image:: https://readthedocs.org/projects/solidpython/badge/?version=latest
     :target: http://solidpython.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
